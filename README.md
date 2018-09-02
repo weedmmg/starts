@@ -2,6 +2,7 @@
 我的《星愿》 你来实现(V0.1)
 
 ![星愿](https://upload-images.jianshu.io/upload_images/12284334-74aaad1cab5aa454.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 #愿景
   我的《星愿》，你来实现。
   星愿可以是买衣服、买包包，可以是打扫房子，可以是做一桌美食；
@@ -31,6 +32,7 @@
 
 ## 星愿流程
 ![星愿流程](https://upload-images.jianshu.io/upload_images/12284334-0d5b3b0274f0d0a7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 星愿订单信息和评价信息同步至私有链合同中，终生不可逆。
 ##星愿评级
 * 一年一度会员等级评定
